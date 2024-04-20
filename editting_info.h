@@ -2,9 +2,8 @@
 #define MAX_PATIENTS 100
 #define MAX_NAME_LENGTH 50
 #define MAX_ADDRESS_LENGTH 50
-#define MAX_PHONE_LENGTH 12 // Including space for null terminator
+#define MAX_PHONE_LENGTH 12 
 #define MAX_DISEASE_LENGTH 50
-
 
 void editRecords(const void *searchTerm, SearchType type) {
 	system("cls");
