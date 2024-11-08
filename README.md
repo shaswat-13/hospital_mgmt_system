@@ -7,7 +7,7 @@ Any faults in the codes and suggestions for better approach for running the code
 
 # Hospital Management System
 
-This Hospital Management System is a console-based application written in C. It provides essential functionalities for managing patient records, including adding, viewing, searching, editing, and deleting data. This system is intended to simplify patient data management for healthcare institutions.
+This Hospital Management System is a console-based application written in C. It provides essential functionalities for managing patient records, including adding, viewing, searching, editing, and deleting data on a file. This system is intended to simplify patient data management for healthcare institutions.
 
 ## Project Structure
 The project is divided into several modules, each responsible for a specific functionality, and includes the following files:
